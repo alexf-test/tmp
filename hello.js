@@ -1,9 +1,9 @@
-alert('hello world')
 
-function foo(bar) {
-  return bar + 1;
+function foo(bar, baz) {
+  return bar + baz;
 }
 
 foo(1, 2)
 
 foo('x')
+
