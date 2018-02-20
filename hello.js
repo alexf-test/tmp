@@ -13,3 +13,10 @@ x = 2;
 x = 3;
 x = 4;
 x = foo(x++, --x);
+
+
+alert('foo');
+
+function bar(x, y) {
+  return x + x;
+}
