@@ -18,5 +18,7 @@ x = foo(x++, --x);
 alert('foo');
 
 function bar(x, y) {
-  return x + x;
+  return y + y;
 }
+
+bar(1);
