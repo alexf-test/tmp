@@ -1,7 +1,6 @@
 // a.js
-var b = require('./b');
 var title = "Ms";
 function example() {
-        return title + " " + b.fullName;
+        return title + " " + "hello";
 }
 exports.firstName = "Ada";
