@@ -17,6 +17,13 @@ x = foo(x++, --x);
 
 alert('foo');
 
+/**
+ * jsdoc
+ *
+ * 
+ * @param x
+ * @param y
+ */
 function bar(x, y) {
   return y + y;
 }
