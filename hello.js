@@ -25,6 +25,7 @@ alert('foo');
  * 
  * @param x
  * @param y
+ *
  */
 function bar(x, y) {
   return y + y;
